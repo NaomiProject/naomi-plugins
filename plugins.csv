@@ -1,1 +1,2 @@
 Plugin profile.yml Name,Plugin Display Name,Plugin Description,Plugin Repo Link i.e.(https://github.com/naomiproject/naomi-ui.git)
+control_led,Control LED,A simple module that combines Naomi and the Arduino platform to show possibilities in IOT and new interactions.,https://github.com/NaomiProject/controlLED-plugin.git
