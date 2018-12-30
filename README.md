@@ -7,6 +7,19 @@ The `plugins.csv` file in this repo is effectively the list of all plugins that 
 When Naomi boots up, it attempts to enable all the plugins specified in it's configuration file.
 If a plugin is not found locally, Naomi will fetch the plugin based on it's entry in the `plugins.csv` file (if found).
 
+The database `plugins.cvs` file is broken down into five different columns. Plugin profile.yml Name, Plugin Display Name, Category, Plugin Description, Plugin Repo Link.
+
+Categories available:
+
+* Speechhandler
+* Intentparser
+* STT
+* TTS
+* Audioengine
+* Interface
+
+> If there are any categories that need to be added please make a pull request listing the addition!
+
 The file is also parsed by [Naomi UI Plugins](https://github.com/naomiproject/) and list the available plugins for the user to download in the UI. **Coming Soon**:tm:
 
 If you wish to add your plugin to the default plugin repository, create a [pull request](https://github.com/naomiproject/naomi-plugins/compare) with your added entry in plugins.csv file.
