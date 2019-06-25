@@ -1,2 +1,3 @@
-Plugin profile.yml Name,Plugin Display Name,Category,Plugin Description,Plugin Repo Link i.e.(https://github.com/naomiproject/naomi-ui.git)
-control_led,Control LED,Interface,A simple module that combines Naomi and the Arduino platform to show possibilities in IOT and new interactions.,https://github.com/NaomiProject/controlLED-plugin.git
+Name,Category,Description,Repository,Commit
+"Control LED","speechhandler","A simple module that combines Naomi and the Arduino platform to show possibilities in IOT and new interactions.","https://github.com/NaomiProject/controlLED-plugin.git","1464530"
+
