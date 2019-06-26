@@ -1,3 +1,3 @@
 Name,Version,Category,Description,Repository,Commit
 "Control LED","1.0.0","speechhandler","A simple module that combines Naomi and the Arduino platform to show possibilities in IOT and new interactions.","https://github.com/NaomiProject/controlLED-plugin.git","1464530"
-
+"googlecalendar","1.0.0","speechhandler","Set and retrieve events from your Google calendar","https://github.com/aaronchantrill/Naomi-Google-Calendar.git","a12f130"
