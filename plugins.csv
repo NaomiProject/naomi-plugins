@@ -1,2 +1,4 @@
-Plugin profile.yml Name,Plugin Display Name,Category,Plugin Description,Plugin Repo Link i.e.(https://github.com/naomiproject/naomi-ui.git)
-control_led,Control LED,Interface,A simple module that combines Naomi and the Arduino platform to show possibilities in IOT and new interactions.,https://github.com/NaomiProject/controlLED-plugin.git
+Name,Version,Category,Description,Repository,Commit
+"Control LED","1.0.0","speechhandler","A simple module that combines Naomi and the Arduino platform to show possibilities in IOT and new interactions.","https://github.com/NaomiProject/controlLED-plugin.git","1464530"
+"googlecalendar","1.0.0","speechhandler","Set and retrieve events from your Google calendar","https://github.com/aaronchantrill/Naomi-Google-Calendar.git","a12f130"
+"You're Welcome","0.0.1","speechhandler","Answers ""Thank you"" with ""You're welcome""","https://github.com/aaronchantrill/YoureWelcome.git","86dd544"
