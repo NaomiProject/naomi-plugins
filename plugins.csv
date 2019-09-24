@@ -3,5 +3,4 @@ Name,Version,Category,Description,Repository,Commit
 "googlecalendar","1.0.0","speechhandler","Set and retrieve events from your Google calendar","https://github.com/aaronchantrill/Naomi-Google-Calendar.git","a12f130"
 "You're Welcome","0.0.1","speechhandler","Answers ""Thank you"" with ""You're welcome""","https://github.com/aaronchantrill/YoureWelcome.git","86dd544"
 "frotz","0.1.0","speechhandler","Would you like to play a game?","https://github.com/aaronchantrill/NaomiFrotz.git","ee67760"
-"Respeaker 4Mic Volume","1.0.0","visualizations","LED Display for SeeedStudio Respeaker","https://github.com/aaronchantrill/respeaker_4mic_volume.git","e3fa9d8"
-
+"Respeaker 4Mic Volume","1.0.0","visualizations","LED Display for SeeedStudio Respeaker","https://github.com/aaronchantrill/respeaker_4mic_volume.git","df6f018"
