@@ -11,12 +11,14 @@ The database `plugins.cvs` file is broken down into five different columns. Plug
 
 Categories available:
 
-* Speechhandler
-* Intentparser
-* STT
-* TTS
 * Audioengine
-* Interface
+* Speechhandler
+* TTI (text to intent)
+* TTS (text to speech)
+* STT (speech to text)
+* STT_Trainer
+* VAD
+* Visualizations
 
 > If there are any categories that need to be added please make a pull request listing the addition!
 
@@ -41,8 +43,8 @@ See the [plugin development guide](https://projectnaomi.com/docs/plugins/develop
 
 ## Private Plugins
 
-You can easily create new custom plugins by simply dropping them in the configured `plugin_directory` and enabling them through the Naomi configuration file or a UI.
+You can easily activate custom plugins by simply dropping them in the configured `plugin_directory`.
 
-However, we always appreciate contributions and new plugin submissions to the default public repository. If you made Naomi better through a private plugin, consider sharing the code.
+We always appreciate contributions and new plugin submissions. If you made Naomi better through a private plugin, consider sharing the code.
 
-We understand that it's more difficult to make a plugin for a public repository than it is to make it for oneself. If you feel intimidated sharing your code, don't know how to go about it, or think your plugin is too specialized, let us know. There's a good chance we can make your plugin (even more) awesome. We'd love to help you contribute and grow Naomi's list of plugins.
+We understand that it's more difficult to make a plugin for a public repository than it is to make it for oneself. If you feel intimidated sharing your code, don't know how to go about it, or think your plugin is too specialized, let us know. There's a good chance we can help make your plugin (even more) awesome. We'd love to help you contribute and grow Naomi's list of plugins.
