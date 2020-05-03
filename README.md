@@ -46,7 +46,7 @@ for more information on creating your own Naomi plugins.
 
 ## Private Plugins
 
-You can easily search for and download plugins using the Naomi Plugin Exchange.
+You can easily search for and download plugins using the [Naomi Plugin Exchange](https://projectnaomi.com/dev/docs/plugins/).
 
 You can also activate custom plugins by simply dropping them in the configured
 `plugin_directory`.
