@@ -41,7 +41,7 @@ This can be configured in `profile.yml`:
 
 Developers can go directly into that directory to create new plugins, code, and make changes to existing plugins.
 
-See the [plugin development guide](https://projectnaomi.com/dev/docs/plugins/development)
+See the [plugin development guide](https://projectnaomi.com/dev/docs/developer/plugins)
 for more information on creating your own Naomi plugins.
 
 ## Private Plugins
