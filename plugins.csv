@@ -1,5 +1,7 @@
 Name,Version,Category,Description,Repository,Commit
 "Control LED","1.0.2","speechhandler","A simple module that combines Naomi and the Arduino platform to show possibilities in IOT and new interactions.","https://github.com/NaomiProject/controlLED-plugin.git","340598e"
+"Facebook Birthdays","1.0.0","speechhandler","Keep track of Facebook friends' birthdays","https://github.com/austincasteel/facebookbirthdays.git","aac83ea"
+"Facebook Notifications","1.0.0","speechhandler","Get notifications for Facebook events","https://github.com/austincasteel/facebooknotifications.git","2eb8979"
 "frotz","0.1.0","speechhandler","Would you like to play a game?","https://github.com/aaronchantrill/NaomiFrotz.git","a8c0ce0"
 "Google AIY Voice V1 Visualizations","1.0.0","visualizations","Visualizations of Naomi's internal state for the Google AIY Voice V1 kit","https://github.com/aaronchantrill/Naomi_Google_AIY_Voice_v1_Button.git","5dfb568"
 "googlecalendar","1.1.0","speechhandler","Set and retrieve events from your Google calendar","https://github.com/aaronchantrill/Naomi-Google-Calendar.git","31bc380"
