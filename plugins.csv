@@ -1,6 +1,7 @@
 Name,Version,Category,Description,Repository,Commit
 "Chuck Norris Jokes","1.0.0","speechhandler","Have Naomi tell random Chuck Norris Jokes","https://github.com/austincasteel/chucknorrisjokes.git","63447cf"
 "Control LED","1.0.2","speechhandler","A simple module that combines Naomi and the Arduino platform to show possibilities in IOT and new interactions.","https://github.com/NaomiProject/controlLED-plugin.git","340598e"
+"Dad Jokes","1.0.0","speechhandler","Have Naomi tell Dad Jokes","https://github.com/austincasteel/dadjokes.git","ca358fa"
 "Facebook Birthdays","1.0.0","speechhandler","Keep track of Facebook friends' birthdays","https://github.com/austincasteel/facebookbirthdays.git","aac83ea"
 "Facebook Notifications","1.0.0","speechhandler","Get notifications for Facebook events","https://github.com/austincasteel/facebooknotifications.git","2eb8979"
 "frotz","0.1.0","speechhandler","Would you like to play a game?","https://github.com/aaronchantrill/NaomiFrotz.git","a8c0ce0"
