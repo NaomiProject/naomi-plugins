@@ -10,3 +10,5 @@ Name,Version,Category,Description,Repository,Commit
 "googlecalendar","1.1.0","speechhandler","Set and retrieve events from your Google calendar","https://github.com/aaronchantrill/Naomi-Google-Calendar.git","31bc380"
 "Respeaker 4Mic Volume","1.0.0","visualizations","LED Display for SeeedStudio Respeaker","https://github.com/aaronchantrill/respeaker_4mic_volume.git","c8904e8"
 "You're Welcome","0.0.1","speechhandler","Answers ""Thank you"" with ""You're welcome""","https://github.com/aaronchantrill/YoureWelcome.git","3885b71"
+"Archive Audiolog","1.0.0","stt_trainer","Allows the user to export their audiolog database and audio files into an archive file that can be merged into a different Naomi using the Import Audiolog plugin.","https://github.com/aaronchantrill/archive_audiolog.git","dfdb74b"
+"Import Audiolog","1.0.0","stt_trainer","Allows the user to import and merge an audiolog archive created by the Archive Audiolog plugin.","https://github.com/aaronchantrill/import_audiolog.git","e7fb27c"
