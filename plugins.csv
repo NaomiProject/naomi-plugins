@@ -1,4 +1,5 @@
 Name,Version,Category,Description,Repository,Commit
+"Announcements","1.0.0","notificationclient","Naomi makes announcements at scheduled times.","https://github.com/aaronchantrill/naomi_announcements.git","1085520"
 "Archive Audiolog","1.0.0","stt_trainer","Allows the user to export their audiolog database and audio files into an archive file that can be merged into a different Naomi using the Import Audiolog plugin.","https://github.com/aaronchantrill/archive_audiolog.git","dfdb74b"
 "Chuck Norris Jokes","1.0.0","speechhandler","Have Naomi tell random Chuck Norris Jokes","https://github.com/austincasteel/chucknorrisjokes.git","63447cf"
 "Control LED","1.0.2","speechhandler","A simple module that combines Naomi and the Arduino platform to show possibilities in IOT and new interactions.","https://github.com/NaomiProject/controlLED-plugin.git","340598e"
