@@ -10,7 +10,7 @@ Name,Version,Category,Description,Repository,Commit
 "Google AIY Voice V1 Visualizations","1.0.0","visualizations","Visualizations of Naomi's internal state for the Google AIY Voice V1 kit","https://github.com/aaronchantrill/Naomi_Google_AIY_Voice_v1_Button.git","bba73f4"
 "googlecalendar","1.1.0","speechhandler","Set and retrieve events from your Google calendar","https://github.com/aaronchantrill/Naomi-Google-Calendar.git","31bc380"
 "Import Audiolog","1.0.0","stt_trainer","Allows the user to import and merge an audiolog archive created by the Archive Audiolog plugin.","https://github.com/aaronchantrill/import_audiolog.git","e7fb27c"
-"NetworkCheck","1.0.0","speechhandler","Simple speechhandler plugin, tells if it is connected to a network and what its IP Address is.","https://github.com/aaronchantrill/NaomiNetworkCheck.git","4c92497"
+"NetworkCheck","1.0.0","speechhandler","Simple speechhandler plugin, tells if it is connected to a network and what its IP Address is.","https://github.com/aaronchantrill/NaomiNetworkCheck.git","0253759"
 "Pocketsphinx_KWS","0.0.1","stt","Keyword recognizer that uses threshold confidence values to match a few words. When combined with a personalized acoustic model, this works reasonably well.","https://github.com/aaronchantrill/pocketsphinx_kws.git","ae0067e"
 "Respeaker 4Mic Volume","1.0.0","visualizations","LED Display for SeeedStudio Respeaker","https://github.com/aaronchantrill/respeaker_4mic_volume.git","c8904e8"
 "You're Welcome","0.0.1","speechhandler","Answers ""Thank you"" with ""You're welcome""","https://github.com/aaronchantrill/YoureWelcome.git","3885b71"
