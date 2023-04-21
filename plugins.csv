@@ -7,7 +7,7 @@ Name,Version,Category,Description,Repository,Commit
 "Deep Speech","1.0.0","stt","Speech-To-Text implementation which relies on the DeepSpeech api","https://github.com/AustinCasteel/deepspeech-stt.git","faa0063"
 "Facebook Birthdays","1.0.0","speechhandler","Keep track of Facebook friends' birthdays","https://github.com/austincasteel/facebookbirthdays.git","aac83ea"
 "Facebook Notifications","1.0.0","speechhandler","Get notifications for Facebook events","https://github.com/austincasteel/facebooknotifications.git","2eb8979"
-"frotz","0.1.1","speechhandler","Would you like to play a game?","https://github.com/aaronchantrill/NaomiFrotz.git","2fa0eed"
+"frotz","0.1.1","speechhandler","Would you like to play a game?","https://github.com/aaronchantrill/NaomiFrotz.git","5ca344a"
 "Google AIY Voice V1 Visualizations","1.0.0","visualizations","Visualizations of Naomi's internal state for the Google AIY Voice V1 kit","https://github.com/aaronchantrill/Naomi_Google_AIY_Voice_v1_Button.git","bba73f4"
 "googlecalendar","1.1.0","speechhandler","Set and retrieve events from your Google calendar","https://github.com/aaronchantrill/Naomi-Google-Calendar.git","31bc380"
 "Greetings","0.0.1","speechhandler","Light banter","https://github.com/aaronchantrill/Naomi_Greetings.git","8ce3e06"
