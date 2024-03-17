@@ -17,5 +17,4 @@ Name,Version,Category,Description,Repository,Commit
 "NWS Weather","1.0.0","speechhandler","Get weather forecasts for US locations from the US National Weather Service.","https://github.com/aaronchantrill/naomi_nws_weather.git","a52106a"
 "Pocketsphinx_KWS","0.0.1","stt","Keyword recognizer that uses threshold confidence values to match a few words. When combined with a personalized acoustic model, this works reasonably well.","https://github.com/aaronchantrill/pocketsphinx_kws.git","dc1a068"
 "Respeaker 4Mic Volume","1.0.0","visualizations","LED Display for SeeedStudio Respeaker","https://github.com/aaronchantrill/respeaker_4mic_volume.git","c8904e8"
-"VOSK STT","1.0.0","stt","VOSK STT engine","https://github.com/aaronchantrill/Naomi_VOSK_STT.git","9b5eef4"
 "You're Welcome","0.0.1","speechhandler","Answers ""Thank you"" with ""You're welcome""","https://github.com/aaronchantrill/YoureWelcome.git","3885b71"
