@@ -19,4 +19,4 @@ Name,Version,Category,Description,Repository,Commit
 "Respeaker 4Mic Volume","1.0.0","visualizations","LED Display for SeeedStudio Respeaker","https://github.com/aaronchantrill/respeaker_4mic_volume.git","c8904e8"
 "VOSK STT","1.0.0","stt","VOSK STT engine","https://github.com/aaronchantrill/Naomi_VOSK_STT.git","2de2233"
 "You're Welcome","0.0.1","speechhandler","Answers ""Thank you"" with ""You're welcome""","https://github.com/aaronchantrill/YoureWelcome.git","3885b71"
-"Padatious TTI","1.0.0","tti","Allows the Padatious Text to Intent module to be used with Naomi","https://github.com/NaomiProject/padatious_tti.git","newcommit123"
+"Padatious TTI","1.0.0","tti","Allows the Padatious Text to Intent module to be used with Naomi","https://github.com/NaomiProject/naomi-plugin-padatious-tti.git","7a4594c"
