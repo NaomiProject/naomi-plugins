@@ -21,3 +21,4 @@ Name,Version,Category,Description,Repository,Commit
 "Respeaker 4Mic Volume","1.0.0","visualizations","LED Display for SeeedStudio Respeaker","https://github.com/aaronchantrill/respeaker_4mic_volume.git","c8904e8"
 "VOSK STT","1.0.0","stt","VOSK STT engine","https://github.com/aaronchantrill/Naomi_VOSK_STT.git","c7d2e21"
 "You're Welcome","0.0.1","speechhandler","Answers ""Thank you"" with ""You're welcome""","https://github.com/aaronchantrill/YoureWelcome.git","3885b71"
+LEDTest,git@github.com:aaronchantrill/LEDTest.git,52b1b277dc032099c0e3eecc98a061b6a4b91da9,MIT
