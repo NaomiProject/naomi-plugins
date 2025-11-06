@@ -15,7 +15,7 @@ Name,Version,Category,Description,Repository,Commit
 "Import Audiolog","1.0.0","stt_trainer","Allows the user to import and merge an audiolog archive created by the Archive Audiolog plugin.","https://github.com/aaronchantrill/import_audiolog.git","60a48ea"
 "NetworkCheck","1.0.1","speechhandler","Simple speechhandler plugin, tells if it is connected to a network and what its IP Address is.","https://github.com/aaronchantrill/NaomiNetworkCheck.git","6ab8446"
 "NWS Weather","1.0.0","speechhandler","Get weather forecasts for US locations from the US National Weather Service.","https://github.com/aaronchantrill/naomi_nws_weather.git","a52106a"
-"Padatious TTI","1.0.0","tti","Allows the Padatious Text to Intent module to be used with Naomi","https://github.com/NaomiProject/naomi-plugin-padatious-tti.git","c588475"
+"Padatious TTI","1.0.0","tti","Allows the Padatious Text to Intent module to be used with Naomi","https://github.com/NaomiProject/naomi-plugin-padatious-tti.git","dafe9df"
 "Piper TTS","1.0.0","tts","Piper speech synthesizer","https://github.com/aaronchantrill/naomi_piper_tts.git","d512bb5"
 "Pocketsphinx_KWS","0.0.1","stt","Keyword recognizer that uses threshold confidence values to match a few words. When combined with a personalized acoustic model, this works reasonably well.","https://github.com/aaronchantrill/pocketsphinx_kws.git","dc1a068"
 "Respeaker 4Mic Volume","1.0.0","visualizations","LED Display for SeeedStudio Respeaker","https://github.com/aaronchantrill/respeaker_4mic_volume.git","c8904e8"
